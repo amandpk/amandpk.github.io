@@ -53,3 +53,6 @@ url_courses_online: "/courses/#moocs"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Google services
+google_analytics: UA-121297889-1

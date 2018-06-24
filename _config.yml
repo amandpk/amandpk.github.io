@@ -36,11 +36,12 @@ plugins:
 
 # Site URLs
 url_my_reading_list: "/reads/"
-url_my_blog: "/blog/"
 url_resume: "/about/resume/"
 url_courses_undertaken: "/courses/"
 url_courses_bachelors: "/courses/#during_bachelors"
+url_courses_niit: "/courses/#during_niit"
 url_courses_online: "/courses/#moocs"
+url_ielts_marksheet_2018: "/courses/#ielts2018"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
